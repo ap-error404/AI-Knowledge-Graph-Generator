@@ -7,7 +7,6 @@
 
 Transform unstructured text into beautiful, interactive knowledge graphs using Google's Gemini AI. This web application automatically extracts entities and relationships from any text and visualizes them as dynamic network graphs.
 
-![Knowledge Graph Demo](https://via.placeholder.com/800x400/1f77b4/ffffff?text=Interactive+Knowledge+Graph+Visualization)
 
 ## ✨ Features
 
@@ -127,9 +126,6 @@ ai-knowledge-graph-generator/
 ├── README.md             # Project documentation
 ├── LICENSE               # MIT License
 ├── .gitignore           # Git ignore file
-└── assets/              # Screenshots and demo files
-    ├── demo.gif
-    └── screenshot.png
 ```
 
 ## 🔧 Configuration
